@@ -23,4 +23,4 @@ cells:
     data_slews: [0.01, 0.1, 1]
     loads: [0.0005, 0.01, 0.1]
     functions:
-      - "y = a & b & c"
+      - "OUT = A & B & C"
