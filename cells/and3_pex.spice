@@ -35,6 +35,6 @@ C22 VDD VSS 1.63893f
 C23 a_420_0# VSS 0.01964f
 C24 a_150_0# VSS 0.02216f
 C25 a_150_350# VSS 0.86467f
-.ends
+.ends and3
 
 
